@@ -23,7 +23,5 @@
 *****
 [Course-Notion-link](https://www.notion.so/05-Programming-Foundations-Data-Structures-56343cd1777c46bab473696c77821a05)
 
-[Preview Certificate](https://www.notion.so/05-Programming-Foundations-Data-Structures-56343cd1777c46bab473696c77821a05)
-...............
-.........
-............
+[Preview Certificate](https://www.linkedin.com/learning/certificates/b1e1769c2c175995f5bc72039e6ca7ef5f293531070d4ba143d04cec54dd9149?trk=share_certificate)
+
